@@ -3,11 +3,14 @@ import './App.css'
 import Button from './components/Button'
 
 function App() {
-  const [count, setCount] = useState(0)
+	const [count, setCount] = useState(() => {
+		return 0
+	})
+	
   
   const incrementCount = (increment) => {
-    setCount(count + increment)
-  }
+		setCount(count => count + increment)
+	}
 
 	return (
 		<div className='App'>
