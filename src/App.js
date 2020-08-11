@@ -14,11 +14,12 @@ function App() {
 
 	return (
 		<div className='App'>
+			<h1>React Count App</h1>
 			<Button increment={1} onClickFunction={incrementCount} />
 			<Button increment={10} onClickFunction={incrementCount} />
 			<Button increment={100} onClickFunction={incrementCount} />
 			<Button increment={1000} onClickFunction={incrementCount} />
-			<span>{count}</span>
+			<h2>{count}</h2>
 		</div>
 	)
 }
