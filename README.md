@@ -1,5 +1,9 @@
 # Simple Counter App With React
 
+📝 A tutorial project in [The Javascript Bootcamp](https://thejsbootcamp.com/) by Flavio Copes.
+
+---
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
