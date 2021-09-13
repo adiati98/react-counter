@@ -2,6 +2,8 @@
 
 📝 A tutorial project in [The Javascript Bootcamp](https://thejsbootcamp.com/) by Flavio Copes.
 
+👁‍🗨 Live preview: https://adiati98.github.io/react-counter/
+
 ---
 
 
